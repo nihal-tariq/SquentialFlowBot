@@ -1,4 +1,4 @@
-### LangGraph Sequential Workflow — Learning Project
+# LangGraph Sequential Workflow — Learning Project
 ## Overview
 
 This repository showcases my learning journey with LangGraph, where I explored how to design sequential AI workflows using modular, prompt-driven nodes.
@@ -58,7 +58,7 @@ It helped me understand how LangGraph nodes interact, pass data sequentially, an
 
 ## Impact on My Technical Growth
 
-# Working on this project has:
+### Working on this project has:
 
 Strengthened my understanding of LLM orchestration and workflow design.
 
