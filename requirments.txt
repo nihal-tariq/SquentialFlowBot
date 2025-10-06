@@ -2,3 +2,6 @@ Langchain
 Langgraph
 langchain_core
 dotenv
+fastapi
+pydantic
+uvicorn
