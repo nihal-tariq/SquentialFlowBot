@@ -1,0 +1,4 @@
+Langchain
+Langgraph
+langchain_core
+dotenv
